@@ -1,0 +1,21 @@
+.content-card__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.content-card__title {
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 20px;
+  color: #c3bdb5;
+}
+
+.content-card__text {
+  text-align: center;
+  color: white;
+}
